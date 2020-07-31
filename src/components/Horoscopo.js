@@ -5,7 +5,7 @@ import { HoroscopoItems } from './HoroscopoItems';
 export const Horoscopo = () => {
 
 
-    const filtroSignos = ['Aries', 'Tauro', 'Géminis', 'Cáncer', 'Leo', 'Virgo', 'Libra', 'Escorpión', 'Sagitario', 'Capricornio','Piscis'];
+    const filtroSignos = ['Aries','Acuario', 'Tauro', 'Géminis', 'Cáncer', 'Leo', 'Virgo', 'Libra', 'Escorpión', 'Sagitario', 'Capricornio','Piscis'];
 
     const [signos, setsignos] = useState({
         fecha: '',
