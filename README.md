@@ -3,7 +3,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## Pequeña aplicacion hecha en react que consume una api de horoscopo
 
 ### Pagina de Demo
-https://pmbspbatista271188.github.io/horoscopo/
+https://pbatista27.github.io/horoscopo/
 
 ## Available Scripts
 
